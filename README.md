@@ -1,5 +1,4 @@
 # Animated-Cards-with-Elementor
-# Animated-Cards-with-Elementor
 **Step-by-Step Guide: Implementing the Animated Cards Template in Elementor**
 
 
