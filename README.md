@@ -2,7 +2,7 @@
 **Step-by-Step Guide: Implementing the Animated Cards Template in Elementor**
 
 
-https://github.com/user-attachments/assets/7bcfea91-44a5-4ed4-80be-3e60db7d24f7
+https://github.com/user-attachments/assets/9808eed6-2b16-4676-a932-0e4c1d114b4a
 
 
 **Step 1: Install and Activate Elementor**
